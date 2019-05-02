@@ -9,7 +9,9 @@
   },
   "license": "MIT",
   "dependencies": {
+    "benchmark": "2.1.4",
     "js-sha3": "0.8.0",
-    "sha3": "2.0.1"
+    "sha3": "2.0.1",
+    "sha3-next": "link:../node-sha3/lib"
   }
 }
